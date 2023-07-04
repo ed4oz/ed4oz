@@ -24,7 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ed4oz&show_icons=true&locale=en" alt="ed4oz" /></p>
 
 <div align="center">
-<h3> Googling is important skill for developer :)  </h3>
+
+ <h3> Googling is important skill for developer :)  </h3>
  <div>
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
