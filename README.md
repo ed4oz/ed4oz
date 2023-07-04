@@ -25,5 +25,7 @@
 
 <div align="center">
 <h3> Googling is important skill for developer :)  </h3>
- <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
+ <div>
+    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+</div>
 </div>
