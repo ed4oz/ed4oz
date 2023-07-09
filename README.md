@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **edaozyt@gmail.com**
 
 <p align="left"> <img src="https://cdn.discordapp.com/attachments/1116845841727098921/1125415119661301800/image.png" alt="ed4oz" /> </p>
 
